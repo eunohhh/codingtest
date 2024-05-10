@@ -8,8 +8,6 @@ function solution(absolutes, signs) {
             answer += -e;
         }
     })
-        
-    console.log(answer)
-    
+            
     return answer;
 }
